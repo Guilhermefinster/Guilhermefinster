@@ -69,6 +69,12 @@ Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. C
 <br/>
 <br/>
 
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+
+<div> 
+ 
+ 
+  <a href = "mailto:guilhermefinsanibal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-finsterbusch-aniba-075a00244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
