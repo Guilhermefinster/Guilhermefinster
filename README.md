@@ -66,7 +66,7 @@ Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. C
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -74,7 +74,7 @@ Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. C
     title="SQLServer"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
 />
 
 <br/>
