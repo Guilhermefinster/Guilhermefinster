@@ -62,11 +62,11 @@ Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. C
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" 
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
 />
 
 
