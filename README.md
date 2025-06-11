@@ -2,6 +2,7 @@ Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermefinster&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ### 🤖 Linguagens e Tecnologias
 
 <img 
