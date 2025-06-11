@@ -1,7 +1,7 @@
 Me chamo Guilherme Finsterbusch Aniba, tenho 18 anos e sou natural do Paraná. Concluí o ensino médio no CEPB em Pato Branco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIDEP e trabalhando trabalho como auxiliar de TI, prestando suporte aos usuários. Sou apaixonado por tecnologia, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermefinster&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=dracula)
 ### 🤖 Linguagens e Tecnologias
 
 <img 
